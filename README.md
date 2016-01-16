@@ -1,2 +1,4 @@
+
 # StatisticsNotes
+
 Notes about Statistics 
